@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,MACE,qBAAsB,CACtB,YAAa,CACb,YACF","file":"main.16b87ca1.chunk.css","sourcesContent":[".todo {\n  border: 2px solid grey;\n  margin: 5px 0;\n  padding: 10px;\n}\n"]}
